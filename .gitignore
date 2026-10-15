@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# data — PDF sumber dan hasil eval (tidak perlu di-commit)
+data/*.pdf
+data/eval-result-*.json

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Apa yang dimaksud dengan informasi elektronik menurut UU ITE?",
+    "expected_articles": ["Pasal 1"],
+    "expected_keywords": ["informasi", "elektronik"]
+  },
+  {
+    "question": "Apa sanksi pidana bagi pelaku pencemaran nama baik di internet?",
+    "expected_articles": ["Pasal 27", "Pasal 45"],
+    "expected_keywords": ["pidana", "penjara", "denda"]
+  },
+  {
+    "question": "Perbuatan apa saja yang dilarang terkait konten asusila online?",
+    "expected_articles": ["Pasal 27"],
+    "expected_keywords": ["kesusilaan", "dilarang"]
+  },
+  {
+    "question": "Bagaimana UU ITE mengatur tentang penyadapan?",
+    "expected_articles": ["Pasal 31"],
+    "expected_keywords": ["penyadapan", "intersepsi"]
+  },
+  {
+    "question": "Apa kewenangan penyidik dalam menangani kasus UU ITE?",
+    "expected_articles": ["Pasal 43"],
+    "expected_keywords": ["penyidik", "penyidikan"]
+  },
+  {
+    "question": "Apa yang diatur tentang tanda tangan elektronik dalam UU ITE?",
+    "expected_articles": ["Pasal 11", "Pasal 12"],
+    "expected_keywords": ["tanda tangan elektronik", "otentik"]
+  },
+  {
+    "question": "Bagaimana ketentuan yurisdiksi UU ITE terhadap warga negara asing?",
+    "expected_articles": ["Pasal 2"],
+    "expected_keywords": ["yurisdiksi", "berlaku"]
+  },
+  {
+    "question": "Apa sanksi bagi yang membobol sistem elektronik orang lain?",
+    "expected_articles": ["Pasal 30", "Pasal 46"],
+    "expected_keywords": ["akses", "tanpa hak", "pidana"]
+  },
+  {
+    "question": "Apa yang dimaksud agen elektronik menurut UU ITE?",
+    "expected_articles": ["Pasal 1"],
+    "expected_keywords": ["agen elektronik"]
+  },
+  {
+    "question": "Bagaimana transaksi elektronik diatur keabsahannya?",
+    "expected_articles": ["Pasal 18", "Pasal 19"],
+    "expected_keywords": ["transaksi elektronik", "sah"]
+  },
+  {
+    "question": "Apa kewajiban penyelenggara sistem elektronik?",
+    "expected_articles": ["Pasal 15", "Pasal 16"],
+    "expected_keywords": ["penyelenggara", "kewajiban", "andal"]
+  },
+  {
+    "question": "Bagaimana pengaturan perlindungan data pribadi dalam UU ITE?",
+    "expected_articles": ["Pasal 26"],
+    "expected_keywords": ["data pribadi", "persetujuan"]
+  },
+  {
+    "question": "Apa sanksi penyebaran berita bohong yang merugikan konsumen?",
+    "expected_articles": ["Pasal 28", "Pasal 45A"],
+    "expected_keywords": ["berita bohong", "konsumen", "pidana"]
+  },
+  {
+    "question": "Apa yang diatur tentang kontrak elektronik?",
+    "expected_articles": ["Pasal 18"],
+    "expected_keywords": ["kontrak elektronik", "kesepakatan"]
+  },
+  {
+    "question": "Bagaimana ketentuan penyimpanan dokumen elektronik?",
+    "expected_articles": ["Pasal 5", "Pasal 6"],
+    "expected_keywords": ["dokumen elektronik", "arsip", "tersimpan"]
+  },
+  {
+    "question": "Berapa lama hukuman penjara maksimal pelanggaran UU ITE?",
+    "expected_articles": ["Pasal 45", "Pasal 46", "Pasal 47"],
+    "expected_keywords": ["tahun", "penjara", "pidana"]
+  },
+  {
+    "question": "Apakah foto seseorang boleh disebarkan tanpa izin?",
+    "expected_articles": ["Pasal 26", "Pasal 27"],
+    "expected_keywords": ["privasi", "tanpa hak", "melanggar"]
+  },
+  {
+    "question": "Apa yang dimaksud sertifikat elektronik?",
+    "expected_articles": ["Pasal 1"],
+    "expected_keywords": ["sertifikat elektronik"]
+  },
+  {
+    "question": "Bagaimana cara mengajukan gugatan atas pelanggaran UU ITE?",
+    "expected_articles": ["Pasal 38", "Pasal 39"],
+    "expected_keywords": ["gugatan", "ganti rugi"]
+  },
+  {
+    "question": "Apakah UU ITE mengatur soal resep dokter dan layanan kesehatan?",
+    "out_of_domain": true,
+    "expected_keywords": []
+  }
+]
