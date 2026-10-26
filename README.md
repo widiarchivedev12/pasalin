@@ -8,6 +8,14 @@ Dibangun dengan teknik **Retrieval-Augmented Generation (RAG)** agar jawaban sel
 
 ---
 
+## Screenshots
+
+| Empty state | Chat dengan sitasi |
+|---|---|
+| ![Empty state](docs/screenshots/empty-state.png) | ![Chat response](docs/screenshots/chat-response.png) |
+
+---
+
 ## Features
 
 - **Chat streaming** — jawaban muncul bertahap secara real-time
